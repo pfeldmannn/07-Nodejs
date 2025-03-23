@@ -12,16 +12,16 @@
   ## Installation
   Follow these steps to install and set up MyProject: 1. Clone the repository:
 
-  ##Usage
+  ## Usage
   After installing MyProject, you can use it by following these steps:
 
-  ##Credits
+  ## Credits
 
-  ##License
+  ## License
   Mozilla Public License 2.0
 
-  ##Contributing
+  ## Contributing
   We welcome contributions! To contribute:1. Fork the repository.2. Create a new branch:3. make your changes and then commit them4. push your changes5. open a pull request
 
-  ##Tests
+  ## Tests
   To run tests, use the following command:npm test
